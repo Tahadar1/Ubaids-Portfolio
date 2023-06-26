@@ -1,0 +1,10 @@
+.icon-edit{
+    text-decoration: none;
+    color: white;
+}
+.icon{
+    margin-top: 100px;
+}
+.icon-edit:hover{
+    color: beige;
+}
